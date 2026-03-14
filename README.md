@@ -27,4 +27,4 @@ We actively work on:
 - Small experimental applications and internal tools
 
 --- 
-> ZerixNetwork — built wit
+> ZerixNetwork
