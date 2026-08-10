@@ -1,4 +1,4 @@
-![ZerixNetwork](https://zerix.ml/images/github_banner.png)
+![ZerixNetwork](https://zerix.ml/images/new_github_banner.png)
 
 ## About us
 
